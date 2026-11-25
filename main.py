@@ -1,3 +1,5 @@
+# Angry Judge — one short rant about a small everyday annoyance, max 400 chars.
+# Writes the entry text to /output/entry.txt; judge scores the rant alone.
 """Angry Judge entry: one short rant about a small everyday annoyance.
 
 Writes the rant to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
